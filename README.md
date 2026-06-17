@@ -27,7 +27,7 @@
   <a href="https://github.com/NehaBansal451" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/neha-bansal-358740322" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -63,10 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBansal451&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NehaBansal451&theme=tokyonight&hide_border=true" alt="wakatime" />
 </p>
 
 <p align="center">
